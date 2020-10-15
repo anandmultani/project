@@ -2,3 +2,4 @@ done by team mate
 welcome git 
 rebase enhancement1
 dbcbffe... EN:rebase done
+stashing
